@@ -1,0 +1,23 @@
+{
+  "name": "webd6201.render",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/Zeel-Sutariya/Webd6201-Render-Zeel",
+  "license": "MIT",
+  "description": "WebD 6201week10",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
+    "mime-types": "^2.1.35"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.16",
+    "@types/mime-types": "^2.1.1",
+    "@types/node": "^18.15.7"
+  }
+}
