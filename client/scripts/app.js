@@ -7,6 +7,9 @@
     function DisplayProjectPage() {
         console.log("Display project page called");
     }
+    function DisplayPrivacyPolicyPage() {
+        console.log("Display privacy policy page called");
+    }
     function DisplayServicePage() {
         console.log("Display Service page called");
     }
@@ -201,6 +204,9 @@
                 break;
             case "projects":
                 DisplayProjectPage();
+                break;
+            case "privacypolicy":
+                DisplayPrivacyPolicyPage();
                 break;
             case "register":
                 DisplayRegisterPage();

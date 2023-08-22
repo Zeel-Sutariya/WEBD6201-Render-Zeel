@@ -17,7 +17,7 @@ router.get('/about', function(req, res, next) {
 
 
 router.get('/projects', function(req, res, next) {
-  res.render('index', { title: 'Project',page: "about",displayName:"" });
+  res.render('index', { title: 'About',page: "about",displayName:"" });
 });
 
 router.get('/privacypolicy', function(req, res, next) {

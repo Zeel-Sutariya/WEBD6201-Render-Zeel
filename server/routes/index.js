@@ -16,7 +16,10 @@ router.get('/about', function (req, res, next) {
     res.render('index', { title: 'About', page: "about", displayName: "" });
 });
 router.get('/projects', function (req, res, next) {
-    res.render('index', { title: 'Project', page: "projects", displayName: "" });
+    res.render('index', { title: 'About', page: "about", displayName: "" });
+});
+router.get('/privacypolicy', function (req, res, next) {
+    res.render('index', { title: 'Privacy Policy', page: "privacypolicy", displayName: "" });
 });
 router.get('/services', function (req, res, next) {
     res.render('index', { title: 'Services', page: "services", displayName: "" });
