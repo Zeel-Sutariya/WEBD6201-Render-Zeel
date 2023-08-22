@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2e20893-0086-439f-bed1-8f151e64bfb4" name="Changes" comment="privacy policy uploaded">
+    <list default="true" id="e2e20893-0086-439f-bed1-8f151e64bfb4" name="Changes" comment="privacy policy update 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/views/components/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/server/views/components/header.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <workItem from="1680274186661" duration="590000" />
       <workItem from="1681010060180" duration="65000" />
       <workItem from="1681011906553" duration="4348000" />
-      <workItem from="1692662894807" duration="468000" />
+      <workItem from="1692662894807" duration="1663000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1679702983640</created>
@@ -96,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692663133228</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="privacy policy update">
+      <option name="closed" value="true" />
+      <created>1692663415704</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692663415704</updated>
+    </task>
+    <task id="LOCAL-00007" summary="privacy policy update 1">
+      <option name="closed" value="true" />
+      <created>1692663581361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692663581361</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +142,9 @@
     <MESSAGE value="final" />
     <MESSAGE value="final1" />
     <MESSAGE value="privacy policy uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="privacy policy uploaded" />
+    <MESSAGE value="privacy policy update" />
+    <MESSAGE value="privacy policy update 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="privacy policy update 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
