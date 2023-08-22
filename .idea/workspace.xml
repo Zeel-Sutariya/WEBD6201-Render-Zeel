@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2e20893-0086-439f-bed1-8f151e64bfb4" name="Changes" comment="privacy policy update 4">
-      <change afterPath="$PROJECT_DIR$/server/views/content/privacypolicy.ejs" afterDir="false" />
+    <list default="true" id="e2e20893-0086-439f-bed1-8f151e64bfb4" name="Changes" comment="privacy policy update 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/scripts/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/scripts/app.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/client/scripts/app.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/scripts/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/scripts/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/scripts/router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/client/scripts/router.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/index.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/views/content/privacypolicy.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/server/views/content/privacypolicy.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +58,7 @@
       <workItem from="1680274186661" duration="590000" />
       <workItem from="1681010060180" duration="65000" />
       <workItem from="1681011906553" duration="4348000" />
-      <workItem from="1692662894807" duration="3650000" />
+      <workItem from="1692662894807" duration="4777000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1679702983640</created>
@@ -143,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692670443992</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="privacy policy update 5">
+      <option name="closed" value="true" />
+      <created>1692671948050</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692671948050</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +179,7 @@
     <MESSAGE value="privacy policy update 2" />
     <MESSAGE value="privacy policy update 3" />
     <MESSAGE value="privacy policy update 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="privacy policy update 4" />
+    <MESSAGE value="privacy policy update 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="privacy policy update 5" />
   </component>
 </project>
