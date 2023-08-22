@@ -20,6 +20,10 @@
             console.log("Display project page called");
 
         }
+        function DisplayPrivacyPolicyPage() :void{
+            console.log("Display privacy policy page called");
+
+        }
 
         // Displaying service page
         function DisplayServicePage():void {
@@ -269,6 +273,7 @@
                 case "edit": DisplayEditPage(); break;
                 case "add": DisplayEditPage(); break;
                 case "projects":  DisplayProjectPage(); break;
+                case "privacypolicy":  DisplayPrivacyPolicyPage(); break;
                 case "register":  DisplayRegisterPage(); break;
                 case "login":  DisplayLoginPage(); break;
                 case "404":  Display404(); break;
