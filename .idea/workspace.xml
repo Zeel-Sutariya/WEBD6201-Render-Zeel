@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2e20893-0086-439f-bed1-8f151e64bfb4" name="Changes" comment="final1">
+    <list default="true" id="e2e20893-0086-439f-bed1-8f151e64bfb4" name="Changes" comment="privacy policy uploaded">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +29,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Zeel/Desktop/SEM 4/WEBD 6201/webd6201.render",
+    "last_opened_file_path": "C:/Users/Leel/Desktop/SEM 4/WEBD 6201/webd6201.render/server/views/content",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
     "settings.editor.selected.configurable": "inlay.hints",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Leel\Desktop\SEM 4\WEBD 6201\webd6201.render\server\views\content" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +58,7 @@
       <workItem from="1680274186661" duration="590000" />
       <workItem from="1681010060180" duration="65000" />
       <workItem from="1681011906553" duration="4348000" />
+      <workItem from="1692662894807" duration="468000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1679702983640</created>
@@ -81,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1681015508926</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="privacy policy uploaded">
+      <option name="closed" value="true" />
+      <created>1692663133228</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692663133228</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +125,8 @@
     <MESSAGE value="1st" />
     <MESSAGE value="final" />
     <MESSAGE value="final1" />
-    <option name="LAST_COMMIT_MESSAGE" value="final1" />
+    <MESSAGE value="privacy policy uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="privacy policy uploaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
